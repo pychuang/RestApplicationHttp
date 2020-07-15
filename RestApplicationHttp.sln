@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApplicationHttp", "RestApplicationHttp\RestApplicationHttp.csproj", "{5219CD47-7027-4B76-980A-A54ED907E452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5219CD47-7027-4B76-980A-A54ED907E452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5219CD47-7027-4B76-980A-A54ED907E452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5219CD47-7027-4B76-980A-A54ED907E452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5219CD47-7027-4B76-980A-A54ED907E452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B57EEDE-9CD8-4293-8AE7-F9972E2BEB54}
+	EndGlobalSection
+EndGlobal
